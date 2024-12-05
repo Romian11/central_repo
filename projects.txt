@@ -1,0 +1,16 @@
+Sir I have made three projects in total... The first project is called Deal Detective, a tool that allows users to compare prices between products on Flipkart and Amazon. The tech stack includes HTML, CSS, and JavaScript for the frontend, and Node.js for the backend. Firebase is used as the database and for user authentication. The application leverages web scraping to fetch data from these e-commerce websites, utilizing Puppeteer to navigate through web pages and extract relevant pricing data. it also redirects user to the authentic e-commerce website so they can place order directly. It features a user-friendly and intuitive interface, making it accessible for everyone. Additionally, it provides a wide range of products for users to search and compare. 
+
+
+second one is FusionTrades which is  stock and cryptocurrency investing platform With over 40 cryptocurrencies and 80 stocks listed, the platform offers real-time price updates, enabling users to make informed decisions. A standout feature of FusionTrades is its provision of paper currency for trading, allowing users to practice and refine their strategies without any financial risk. 
+The purpose of this website is to reduce the risk of losses by helping them practice and learn in a controlled environment.
+The platform enables seamless buying and selling of assets, and features a comprehensive dashboard where users can view their holdings, track performance, and manage their portfolios. Additionally, a dedicated wallet section allows users to easily add funds as needed. Detailed price graphs offer valuable insights, helping users decide the optimal time to buy or sell their assets.
+To ensure accurate, real-time data, FusionTrades utilizes sockets and API calls for fetching live prices. The tech stack includes HTML, CSS, and JavaScript for the frontend, Node.js for the backend, and Firebase for database management and user authentication. FusionTrades is a robust, feature-rich platform designed to elevate the trading experience.
+
+
+
+My third project is The The Expense Tracker website which is designed to help users efficiently track their expenses and income. It offers a simple and intuitive interface where users can easily log their financial transactions. The platform uses pie charts that provide an overview of spending and income distribution. Users can categorize their expenses and income for more detailed tracking and can also filter data between custom date ranges to analyze specific periods.
+The techstack includes reactjs , css , js for frontend nodejs , mongo db for backend and as database
+
+
+
+
