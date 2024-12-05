@@ -11,6 +11,4 @@ To ensure accurate, real-time data, FusionTrades utilizes sockets and API calls 
 My third project is The The Expense Tracker website which is designed to help users efficiently track their expenses and income. It offers a simple and intuitive interface where users can easily log their financial transactions. The platform uses pie charts that provide an overview of spending and income distribution. Users can categorize their expenses and income for more detailed tracking and can also filter data between custom date ranges to analyze specific periods.
 The techstack includes reactjs , css , js for frontend nodejs , mongo db for backend and as database
 
-
-
-
+sadasdasdasd
